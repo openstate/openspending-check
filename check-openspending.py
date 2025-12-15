@@ -10,6 +10,7 @@ import sys
 from datetime import datetime, date, timedelta
 from jsondiff import diff
 from pprint import pformat
+from settings import SENDGRID_API_KEY
 from sendgrid.helpers.mail import *
 from sendgrid import *
 
@@ -32,6 +33,7 @@ args = parser.parse_args()
 
 
 def sendmail(subject, content, to=['developers@openstate.eu']):
+    sg = sendgrid.SendGridAPIClient(api_key=SENDGRID_API_KEY)
     mail = Mail()
     email = Email()
     email.email = "developers@openstate.eu"
