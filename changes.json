@@ -1,0 +1,382 @@
+{
+    "45001NED": {
+        "ID": [
+            88,
+            89
+        ]
+    },
+    "45004NED": {
+        "ID": [
+            87,
+            88
+        ]
+    },
+    "45005NED": {
+        "ID": [
+            86,
+            87
+        ]
+    },
+    "45006NED": {
+        "ID": [
+            85,
+            86
+        ]
+    },
+    "45007NED": {
+        "ID": [
+            90,
+            91
+        ]
+    },
+    "45008NED": {
+        "ID": [
+            89,
+            90
+        ]
+    },
+    "45009NED": {
+        "ID": [
+            106,
+            107
+        ]
+    },
+    "45010NED": {
+        "ID": [
+            105,
+            106
+        ]
+    },
+    "45011NED": {
+        "ID": [
+            104,
+            105
+        ]
+    },
+    "45012NED": {
+        "ID": [
+            103,
+            104
+        ]
+    },
+    "45013NED": {
+        "ID": [
+            102,
+            103
+        ]
+    },
+    "45014NED": {
+        "ID": [
+            101,
+            102
+        ]
+    },
+    "45018NED": {
+        "ID": [
+            121,
+            122
+        ]
+    },
+    "45019NED": {
+        "ID": [
+            120,
+            121
+        ]
+    },
+    "45020NED": {
+        "ID": [
+            119,
+            120
+        ]
+    },
+    "45021NED": {
+        "ID": [
+            118,
+            119
+        ]
+    },
+    "45022NED": {
+        "ID": [
+            117,
+            118
+        ]
+    },
+    "45023NED": {
+        "ID": [
+            116,
+            117
+        ]
+    },
+    "45031NED": {
+        "ID": [
+            84,
+            85
+        ]
+    },
+    "45033NED": {
+        "ID": [
+            100,
+            101
+        ]
+    },
+    "45037NED": {
+        "ID": [
+            115,
+            116
+        ]
+    },
+    "45038NED": {
+        "ID": [
+            83,
+            84
+        ]
+    },
+    "45039NED": {
+        "ID": [
+            99,
+            100
+        ]
+    },
+    "45041NED": {
+        "ID": [
+            114,
+            115
+        ]
+    },
+    "45042NED": {
+        "ID": [
+            82,
+            83
+        ]
+    },
+    "45043NED": {
+        "ID": [
+            98,
+            99
+        ]
+    },
+    "45045NED": {
+        "ID": [
+            113,
+            114
+        ]
+    },
+    "45046NED": {
+        "ID": [
+            81,
+            82
+        ]
+    },
+    "45047NED": {
+        "ID": [
+            97,
+            98
+        ]
+    },
+    "45049NED": {
+        "ID": [
+            112,
+            113
+        ]
+    },
+    "45050NED": {
+        "ID": [
+            80,
+            81
+        ]
+    },
+    "45051NED": {
+        "ID": [
+            96,
+            97
+        ]
+    },
+    "45053NED": {
+        "ID": [
+            111,
+            112
+        ]
+    },
+    "45054NED": {
+        "ID": [
+            79,
+            80
+        ]
+    },
+    "45056NED": {
+        "ID": [
+            95,
+            96
+        ]
+    },
+    "45058NED": {
+        "ID": [
+            110,
+            111
+        ]
+    },
+    "45059NED": {
+        "ID": [
+            78,
+            79
+        ]
+    },
+    "45060NED": {
+        "ID": [
+            94,
+            95
+        ]
+    },
+    "45062NED": {
+        "ID": [
+            109,
+            110
+        ]
+    },
+    "45063NED": {
+        "ID": [
+            77,
+            78
+        ]
+    },
+    "45064NED": {
+        "ID": [
+            93,
+            94
+        ]
+    },
+    "45066NED": {
+        "ID": [
+            108,
+            109
+        ]
+    },
+    "45067NED": {
+        "ID": [
+            76,
+            77
+        ]
+    },
+    "45068NED": {
+        "ID": [
+            92,
+            93
+        ]
+    },
+    "45070NED": {
+        "ID": [
+            107,
+            108
+        ]
+    },
+    "45071NED": {
+        "DefaultPresentation": [
+            "ts=1737466208864&graphtype=Table&r=TaakveldBalanspost&k=Verslagsoort,Topics,Categorie,Gemeenten&_gu=GM",
+            "ts=1746699414136&graphtype=Table&r=TaakveldBalanspost&k=Verslagsoort,Topics,Categorie,Gemeenten&_gu=GM"
+        ],
+        "DefaultSelection": [
+            "$$filter=((Categorie eq 'L1.1    ') or (Categorie eq 'B2.2.1  ')) and ((Verslagsoort eq '2025X000')) and ((Gemeenten eq 'GM0363   ') or (Gemeenten eq 'GM0518   ') or (Gemeenten eq 'GM0599   ') or (Gemeenten eq 'GM0344   '))&$select=TaakveldBalanspost, Categorie, Verslagsoort, Gemeenten, k_2ePlaatsing_2",
+            "$$filter=((Categorie eq 'L1.1    ') or (Categorie eq 'B2.2.1  ')) and ((Verslagsoort eq '2025X001')) and ((Gemeenten eq 'GM0363   ') or (Gemeenten eq 'GM0518   ') or (Gemeenten eq 'GM0599   ') or (Gemeenten eq 'GM0344   '))&$select=TaakveldBalanspost, Categorie, Verslagsoort, Gemeenten, k_1ePlaatsing_1"
+        ],
+        "ID": [
+            75,
+            76
+        ],
+        "MetaDataModified": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ],
+        "Modified": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ],
+        "ShortDescription": [
+            "\nDe bron van de gegevens in deze tabel zijn gemeenten en het CBS biedt deze als service aan als open data. \n\nHet CBS ontvangt de gegevens van gemeenten in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de begroting, de vier kwartalen en de jaarrekening. Indien een gemeente voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan is deze gemeente wel in de tabel opgenomen, maar heeft elke cel de waarde '.', in de zin van ontbrekend. NB dit komt met name voor bij de kwartaalrekeningen van de gemeenten met minder dan 20 duizend inwoners (grootteklasse 6,7 en 8), aangezien zij niet verplicht zijn om deze te leveren aan het CBS.\n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn enerzijds en de taakvelden en balansposten anderzijds, zijn evenals hun betekenis ontleend aan het 'Besluit begroting en verantwoording provincies en gemeenten' (BBV) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het BBV bevat onder meer de regelgeving voor de leveringen van Iv3-data aan het CBS.\n \nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat het CBS de gemeenten de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 23 januari 2025:\nDe cijfers van de tweede plaatsing van begroting 2025 zijn opgenomen.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan het CBS die voor de betreffende verslagsoort geldt.\nVoor begrotingen voor jaar j is de uiterste inzenddatum 14 november in het jaar voorafgaand aan het begrotingjaar (j-1). Voor de kwartaalgegevens van het eerste, tweede en derde kwartaal van jaar j is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor aanlevering van het vierde kwartaal van jaar j geldt een uiterste inzenddatum van 14 februari in het jaar volgend op het verslagjaar (j+1). Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. De tweede plaatsing van de begroting vindt (mogelijk) gefaseerd plaats: de cijfers van gemeentelijke herindelingen welke wegens uitstel bij de reguliere tweede plaatsing ontbraken worden uiterlijk eind mei gepubliceerd. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n",
+            "\nDe bron van de gegevens in deze tabel zijn gemeenten en het CBS biedt deze als service aan als open data. \n\nHet CBS ontvangt de gegevens van gemeenten in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de begroting, de vier kwartalen en de jaarrekening. Indien een gemeente voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan is deze gemeente wel in de tabel opgenomen, maar heeft elke cel de waarde '.', in de zin van ontbrekend. NB dit komt met name voor bij de kwartaalrekeningen van de gemeenten met minder dan 20 duizend inwoners (grootteklasse 6,7 en 8), aangezien zij niet verplicht zijn om deze te leveren aan het CBS.\n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn enerzijds en de taakvelden en balansposten anderzijds, zijn evenals hun betekenis ontleend aan het 'Besluit begroting en verantwoording provincies en gemeenten' (BBV) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het BBV bevat onder meer de regelgeving voor de leveringen van Iv3-data aan het CBS.\n \nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat het CBS de gemeenten de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 12 mei 2025:\nDe cijfers van de eerste plaatsing van het eerste kwartaal 2025 zijn opgenomen.\nDoor technische problemen zijn niet alle inzendingen verwerkt in de publicatie van deze tabel.\nHierdoor kan het voorkomen dat de inzending van een gemeente ontbreekt terwijl deze wel is aangeleverd bij het CBS binnen de uiterste inzendtermijn van deze verslagperiode.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan het CBS die voor de betreffende verslagsoort geldt.\nVoor begrotingen voor jaar j is de uiterste inzenddatum 14 november in het jaar voorafgaand aan het begrotingjaar (j-1). Voor de kwartaalgegevens van het eerste, tweede en derde kwartaal van jaar j is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor aanlevering van het vierde kwartaal van jaar j geldt een uiterste inzenddatum van 14 februari in het jaar volgend op het verslagjaar (j+1). Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. De tweede plaatsing van de begroting vindt (mogelijk) gefaseerd plaats: de cijfers van gemeentelijke herindelingen welke wegens uitstel bij de reguliere tweede plaatsing ontbraken worden uiterlijk eind mei gepubliceerd. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n"
+        ],
+        "Updated": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ]
+    },
+    "45072NED": {
+        "ID": [
+            91,
+            92
+        ],
+        "MetaDataModified": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ],
+        "Modified": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ],
+        "ShortDescription": [
+            "\nDe bron van de gegevens in deze tabel zijn provincies en het CBS biedt deze als service aan als open data.\n\nHet CBS ontvangt de gegevens van provincies in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de begroting, de vier kwartalen en de jaarrekening. Indien een provincie voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan is deze provincie wel in de tabel opgenomen, maar heeft elke cel de waarde '.' (ontbrekend).\n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn enerzijds en de taakvelden en balansposten anderzijds, zijn evenals hun betekenis ontleend aan het 'Besluit begroting en verantwoording provincies en gemeenten' (BBV) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het BBV bevat onder meer de regelgeving voor de leveringen van Iv3-data aan het CBS.\n\nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat het CBS de provincies de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 23 januari 2025:\nDe cijfers van de tweede plaatsing van begroting 2025 zijn opgenomen.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan het CBS die voor de betreffende verslagsoort geldt.\nVoor begrotingen voor jaar j is de uiterste inzenddatum 14 november in het jaar voorafgaand aan het begrotingjaar (j-1). Voor de kwartaalgegevens van het eerste, tweede en derde kwartaal van jaar j is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor aanlevering van het vierde kwartaal van jaar j geldt een uiterste inzenddatum van 14 februari in het jaar volgend op het verslagjaar (j+1). Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n",
+            "\nDe bron van de gegevens in deze tabel zijn provincies en het CBS biedt deze als service aan als open data.\n\nHet CBS ontvangt de gegevens van provincies in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de begroting, de vier kwartalen en de jaarrekening. Indien een provincie voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan is deze provincie wel in de tabel opgenomen, maar heeft elke cel de waarde '.' (ontbrekend).\n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn enerzijds en de taakvelden en balansposten anderzijds, zijn evenals hun betekenis ontleend aan het 'Besluit begroting en verantwoording provincies en gemeenten' (BBV) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het BBV bevat onder meer de regelgeving voor de leveringen van Iv3-data aan het CBS.\n\nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat het CBS de provincies de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 12 mei 2025:\nDe cijfers van de eerste plaatsing van het eerste kwartaal 2025 zijn opgenomen.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan het CBS die voor de betreffende verslagsoort geldt.\nVoor begrotingen voor jaar j is de uiterste inzenddatum 14 november in het jaar voorafgaand aan het begrotingjaar (j-1). Voor de kwartaalgegevens van het eerste, tweede en derde kwartaal van jaar j is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor aanlevering van het vierde kwartaal van jaar j geldt een uiterste inzenddatum van 14 februari in het jaar volgend op het verslagjaar (j+1). Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n"
+        ],
+        "Updated": [
+            "2025-01-23T02:00:00",
+            "2025-05-12T02:00:00"
+        ]
+    },
+    "$insert": {
+        "45073NED": {
+            "ApiUrl": "https://dataderden.cbs.nl/ODataApi/OData/45073NED",
+            "Catalog": "IV3",
+            "ColumnCount": 6,
+            "DefaultPresentation": "ts=1746700540564&graphtype=Table&r=TaakveldBalanspost,Categorie&k=GemeenschappelijkeRegelingen,Verslagsoort,Topics",
+            "DefaultSelection": "$$filter=((TaakveldBalanspost eq '1.1   ') or (TaakveldBalanspost eq 'A1331d')) and ((Categorie eq 'L3.8    ') or (Categorie eq 'L6.1    ')) and ((GemeenschappelijkeRegelingen eq 'GR0617   ')) and ((Verslagsoort eq '2025X001') or (Verslagsoort eq '2025X002') or (Verslagsoort eq '2025X003') or (Verslagsoort eq '2025X004') or (Verslagsoort eq '2025X005'))",
+            "ExplanatoryText": "",
+            "FeedUrl": "https://dataderden.cbs.nl/ODataFeed/OData/45073NED",
+            "Frequency": "Onregelmatig",
+            "GraphTypes": "Table,Bar",
+            "ID": 75,
+            "Identifier": "45073NED",
+            "Language": "nl",
+            "MetaDataModified": "2025-05-12T02:00:00",
+            "Modified": "2025-05-12T02:00:00",
+            "OutputStatus": "Regulier",
+            "Period": "2025",
+            "ReasonDelivery": "Nieuw",
+            "RecordCount": 10382580,
+            "SearchPriority": "2",
+            "ShortDescription": "\nDe bron van de gegevens in deze tabel zijn gemeenschappelijke regelingen en het CBS biedt deze als service aan als open data.\n\nHet CBS ontvangt de gegevens van gemeenschappelijke regelingen in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de vier kwartalen en de jaarrekening. In deze tabel zijn tenminste alle gemeenschappelijke regelingen opgenomen die behoren tot de steekproef van het CBS van grote gemeenschappelijke regelingen die moeten aanleveren; dit zijn de gemeenschappelijke regelingen waarbij in een eerder verslagjaar de totale baten of lasten in de exploitatierekening van de jaarrekening groter dan 20 miljoen euro waren. Daarnaast zijn alle gemeenschappelijke regelingen opgenomen die op vrijwillige basis voor tenminste \u00e9\u00e9n periode in het huidige verslagjaar hebben aangeleverd. NB. indien een gemeenschappelijke regeling wel in de tabel is opgenomen, maar voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan heeft elke cel voor die verslagsoort de waarde '.', in de zin van ontbrekend. \n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn enerzijds en de taakvelden en balansposten anderzijds, zijn evenals hun betekenis ontleend aan het 'Besluit begroting en verantwoording provincies en gemeenten' (BBV) van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. Het BBV bevat onder meer de regelgeving voor de leveringen van Iv3-data aan het CBS.\n \nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat het CBS de gemeenschappelijke regelingen de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 12 mei 2025:\nGeen, dit is een nieuwe tabel.\nDe cijfers van de eerste plaatsing van het eerste kwartaal 2025 zijn opgenomen.\nDoor technische problemen zijn niet alle inzendingen verwerkt in de publicatie van deze tabel.\nHierdoor kan het voorkomen dat de inzending van een gemeenschappelijke regeling ontbreekt terwijl deze wel is aangeleverd bij het CBS binnen de uiterste inzendtermijn van deze verslagperiode.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan het CBS die voor de betreffende verslagsoort geldt. Voor de kwartaalrekeningen is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n",
+            "ShortTitle": "Gem. regelingen 2025 onbewerkte Iv3-data",
+            "Source": "&copy; Gemeenschappelijke regelingen, ",
+            "Summary": "Lasten, baten en balansstanden van gemeenschappelijke \nregelingen voor jaar- en kwartaalrekeningen.",
+            "SummaryAndLinks": "Lasten, baten en balansstanden van gemeenschappelijke <br />regelingen voor jaar- en kwartaalrekeningen.<br /><a href=\"http://dataderden.cbs.nl/ODataApi/OData/45073NED\">http://dataderden.cbs.nl/ODataApi/OData/45073NED</a><br /><a href=\"http://dataderden.cbs.nl/ODataFeed/OData/45073NED\">http://dataderden.cbs.nl/ODataFeed/OData/45073NED</a>",
+            "Title": "Gemeenschappelijke regelingen 2025 onbewerkte Iv3-data",
+            "Updated": "2025-05-12T02:00:00"
+        },
+        "45076NED": {
+            "ApiUrl": "https://dataderden.cbs.nl/ODataApi/OData/45076NED",
+            "Catalog": "IV3",
+            "ColumnCount": 6,
+            "DefaultPresentation": "ts=1746631003135&graphtype=Table&r=Waterschappen,FunctieKostenplaatsBalanspost,Verslagsoort&k=Topics,Categorie",
+            "DefaultSelection": "$$filter=((FunctieKostenplaatsBalanspost eq 'Expl  ') or (FunctieKostenplaatsBalanspost eq 'A23b  ') or (FunctieKostenplaatsBalanspost eq 'P29b  ')) and ((Categorie eq 'L2.1    ') or (Categorie eq 'B3.3    ') or (Categorie eq 'Primo   ') or (Categorie eq 'Ultimo  ')) and ((Waterschappen eq 'WS07     ')) and ((Verslagsoort eq '2025X001') or (Verslagsoort eq '2025X002') or (Verslagsoort eq '2025X003') or (Verslagsoort eq '2025X004') or (Verslagsoort eq '2025X005'))",
+            "ExplanatoryText": "",
+            "FeedUrl": "https://dataderden.cbs.nl/ODataFeed/OData/45076NED",
+            "Frequency": "Onregelmatig",
+            "GraphTypes": "Table,Bar",
+            "ID": 123,
+            "Identifier": "45076NED",
+            "Language": "nl",
+            "MetaDataModified": "2025-05-12T02:00:00",
+            "Modified": "2025-05-12T02:00:00",
+            "OutputStatus": "Regulier",
+            "Period": "2025",
+            "ReasonDelivery": "Nieuw",
+            "RecordCount": 1217304,
+            "SearchPriority": "2",
+            "ShortDescription": "\nDe bron van de gegevens in deze tabel zijn waterschappen en het CBS biedt deze als service aan als open data.\n\nHet CBS ontvangt de gegevens van waterschappen in het kader van de rapportages Informatie voor Derden (Iv3). De gegevens in de tabel zijn niet bewerkt door het CBS. Dit soort data wordt ook wel aangeduid met de term 'onbewerkte data'. Het CBS draagt geen verantwoordelijkheid voor de kwaliteit van de gegevens. De data in de eigen publicaties van het CBS hoeven daarbij niet een-op-een te herleiden zijn tot de gegevens in deze tabel.\n\nIn deze tabel is ook het Waterschapsbedrijf Limburg opgenomen. Het Waterschapsbedrijf Limburg is formeel een gemeenschappelijke regeling, maar voert uitsluitend taken uit voor waterschappen en levert ook aan in het formaat van de waterschappen.\n\nDe tabel bevat onbewerkte Iv3-data van alle verslagsoorten van \u00e9\u00e9n verslagjaar. De verslagsoorten zijn de vier kwartalen en de jaarrekening. Indien een waterschap voor een verslagsoort geen Iv3-gegevens heeft aangeleverd, dan is dit waterschap wel in de tabel opgenomen, maar heeft elke cel de waarde '.' (ontbrekend).\n\nDe in de tabel gebruikte coderingen voor de categorie\u00ebn (kosten- en opbrengstensoorten en soorten balansmutaties) enerzijds en de functies (exploitatie of resultaatbestemming) en balansposten anderzijds, zijn evenals hun betekenis ontleend aan 'Regeling Beleidsvoorbereiding en Verantwoording Waterschappen' (RBVW) van het Ministerie van Infrastructuur en Milieu. Het RBVW bevat onder meer de regelgeving voor de leveringen van Iv3-data aan CBS.\n\nVoor elke verslagsoort worden op twee momenten alle tot dan toe ontvangen rapportages tegelijkertijd gepubliceerd. De reden dat de data nog een tweede keer worden geplaatst, is dat CBS de waterschappen de gelegenheid geeft een verbeterde Iv3-gegevensset aan te leveren. De data die de eerste keer worden geplaatst hebben in het onderwerp 'Plaatsing' de waarde '1ste plaatsing'. De data die de tweede keer worden geplaatst hebben de waarde '2de plaatsing'.\n\nGegevens beschikbaar vanaf: 2025.\n\nStatus van de cijfers\nDe cijfers in deze tabel zijn bij publicatie definitief (d.w.z. behoudens uitzonderingen vindt er geen update meer plaats van eenmaal gepubliceerde data).\n\nWijzigingen per 12 mei 2025:\nGeen, dit is een nieuwe tabel.\nDe cijfers van de eerste plaatsing van het eerste kwartaal 2025 zijn opgenomen.\n\nWanneer komen er nieuwe cijfers?\nHet tijdstip van publiceren van nieuwe cijfers voor een verslagsoort is afhankelijk van de uiterste inzendtermijn aan CBS die voor de betreffende verslagsoort geldt. Voor de kwartaalrekeningen is deze \u00e9\u00e9n maand na afloop van het kwartaal. Voor de jaarrekeningen van jaar j tot slot is deze datum 14 juli in het jaar volgend op het verslagjaar (j+1).\nAlle voor een verslagsoort ontvangen rapportages worden tegelijkertijd gepubliceerd. Dit publiceren gebeurt twee keer. De eerste keer is 10 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk 5 dagen na de uiterste inzendtermijn is ontvangen. De tweede keer is 70 dagen na de uiterste inzenddatum. Valt deze dag in het weekend of op een feestdag, dan worden de data op de eerstvolgende werkdag gepubliceerd. Bij deze plaatsing wordt voor elke berichtgever de laatst ontvangen rapportage gepubliceerd die uiterlijk twee maanden na de uiterste inzendtermijn is ontvangen. Het onderscheid tussen de eerste en de tweede plaatsing is te zien in het onderwerp.\n",
+            "ShortTitle": "Waterschappen 2025 onbewerkte Iv3-data",
+            "Source": "&copy; Waterschappen, ",
+            "Summary": "Lasten, baten en balansstanden van \nwaterschappen voor jaar- en kwartaalrekeningen.",
+            "SummaryAndLinks": "Lasten, baten en balansstanden van <br />waterschappen voor jaar- en kwartaalrekeningen.<br /><a href=\"http://dataderden.cbs.nl/ODataApi/OData/45076NED\">http://dataderden.cbs.nl/ODataApi/OData/45076NED</a><br /><a href=\"http://dataderden.cbs.nl/ODataFeed/OData/45076NED\">http://dataderden.cbs.nl/ODataFeed/OData/45076NED</a>",
+            "Title": "Waterschappen 2025 onbewerkte Iv3-data",
+            "Updated": "2025-05-12T02:00:00"
+        }
+    }
+}
