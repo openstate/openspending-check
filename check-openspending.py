@@ -75,6 +75,7 @@ class OpenSpendingChecker:
         for item in result['value']:
             identifier = item['Identifier']
             if item['Catalog'] == 'IV3':
+                del item['ID']
                 all_items[identifier] = item
 
         # Don't write to the today_file if we passed the today_date as an
