@@ -4,6 +4,7 @@ import argparse
 import json
 import os
 import re
+from time import sleep
 import requests
 import sys
 import traceback
@@ -136,14 +137,23 @@ class OpenSpendingChecker:
                 'The automated daily check for Open Spending updates detected the following changes in the test results compared to yesterday:\n\n%s' % (pformat(changes, indent=2))
             )
 
-try:
-    checker = OpenSpendingChecker()
-    checker.process()
-except Exception as e:
-    OpenSpendingChecker.sendmail(
-        '[Open Spending Checker] Exception occurred',
-        f'{str(e)} {traceback.print_tb(e.__traceback__)}'
-    )
+n_attempts = 0
+finished = False
+while not finished:
+    try:
+        checker = OpenSpendingChecker()
+        checker.process()
+        finished = True
+    except Exception as e:
+        # The CBS site does not always respond. Try each hour for 12 hours long
+        n_attempts += 1
+        if n_attempts == 12:
+            OpenSpendingChecker.sendmail(
+                f'[Open Spending Checker] Exception occurred after {n_attempts} tries',
+                f'{str(e)} {traceback.print_tb(e.__traceback__)}'
+            )
+            break
+        sleep(3600)
 
 
 # Code for old Open Spending
