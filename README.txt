@@ -1,6 +1,12 @@
-This script is run daily and checks if CBS published new Iv3 records which we use for Open Spending. If this is the case the records will be downloaded, converted and loaded into Open Spending. This automatic update process will work without problems in some cases, but some other cases require manual input. The script will email developers@openstate.eu if it found new data and starts to process it and will again send an email if it has failed or succeeded to process the data. In case of failure, the email will contain the command that failed and which log file contains the error message. Check the log file to fix the problem.
+This script is run daily and checks if CBS published new Iv3 records which we use for Open Spending.
+If this is the case an email will be sent to alert the developers that new new data is available.
 
-A normal problem is with Gemeenschappelijke Regelingen (the error happens in the `save_government_model` step), we often can't find an address automatically for a new Gemeenschappelijke Regeling (this usually happens in May when the first quarter of the new year is published?) so we have to add the address manually to `openspending-interface/base/data/GR_locations.json`. Check kvk.nl and search for the name of the Gemeenschappelijke Regeling to find its postal code and city. Afterwards you can manually run this one command again to see if there are other new GRs which you need to add (instead of running the whole process which takes much longer).
+A normal problem is with Gemeenschappelijke Regelingen (the error happens in the `save_government_model` step),
+we often can't find an address automatically for a new Gemeenschappelijke Regeling (this usually happens in May when
+the first quarter of the new year is published?) so we have to add the address manually to
+`openspending-interface/base/data/GR_locations.json`. Check kvk.nl and search for the name of the
+Gemeenschappelijke Regeling to find its postal code and city. Afterwards you can manually run this one command
+again to see if there are other new GRs which you need to add (instead of running the whole process which takes much longer).
 
 
 Some other random problems which were unforseen:
